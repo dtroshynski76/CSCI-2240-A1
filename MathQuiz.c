@@ -1,5 +1,5 @@
 /*
-Name: Donovan Troshynski
+Name:
 Program #: 1
 Due Date: 26 January 2016
 */
